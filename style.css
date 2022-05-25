@@ -1,0 +1,100 @@
+#label_1{
+    width: 450px ;
+    border-radius: 10px;
+}
+
+#button_nature{
+    background-color: greenyellow;
+    color: black; 
+    font-weight: bold;
+    width: 200;
+    height: 50;
+}
+
+#button_btfk{
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    width: 200;
+    height: 50;
+}
+
+#button_clothes{
+    background-color:yellow ;
+    color: black;
+    font-weight: bold;
+    width: 200;
+    height: 50;
+}
+
+#nature_image{
+    height: 50%;
+    width: 75%;
+}
+
+#main_screen{
+	font-size: 20px; float: right;
+}
+
+#boys_screen{
+    font-weight: bold;
+    font-size: 45px;
+    background-color: red;
+    color: cyan;
+    border-radius: 10px;
+}
+
+#header_2{
+    font-weight: bold;
+    font-size: 55px;
+    color: black;
+}
+
+#girls_screen{
+    font-weight: bold;
+    font-size: 45px;
+    background-color: pink;
+    color: magenta;
+    border-radius: 10px;
+}
+
+#header_boys{
+    font-weight: bold;
+    font-size: 45px ;
+    color: blue;
+}
+
+#note{
+    color: red;
+    font-size: 25px;
+}
+
+#legos{
+    font-weight: bold;
+    color: red;
+    font-size: 35px;
+}
+
+#mech_lego{
+    background-color: cyan;
+}
+
+#info_legos{
+    font-weight: bold;
+    color: black;
+}
+
+#beyblade_main{
+    font-weight: bold;
+    color: black;
+}
+
+#info_beyblade{
+    font-weight: bold;
+    color: black;
+}
+
+#bey_img{
+    width: 50%;
+    height: 50%;
+}
